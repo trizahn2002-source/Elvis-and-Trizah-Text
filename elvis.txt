@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+ HEAD
 First project on dev
-=======
 Our first project together on main branch
 Hello
->>>>>>> main
+ main
